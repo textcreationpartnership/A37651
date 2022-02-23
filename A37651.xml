@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief of an act of Parliament humbly desired for the relief of the distressed Protestants of Ireland who have lost their estates by the present rebellion there, and to enlarge and explain these former acts already passed, for the more speedy and effectual reducing of the rebells of Ireland, to their due obedience to His Majestie and the crown of England.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37651</idno>
+            <idno type="STC">Wing E1263</idno>
+            <idno type="STC">ESTC R30437</idno>
+            <idno type="EEBO-CITATION">11321299</idno>
+            <idno type="OCLC">ocm 11321299</idno>
+            <idno type="VID">47440</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37651)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47440)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1460:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief of an act of Parliament humbly desired for the relief of the distressed Protestants of Ireland who have lost their estates by the present rebellion there, and to enlarge and explain these former acts already passed, for the more speedy and effectual reducing of the rebells of Ireland, to their due obedience to His Majestie and the crown of England.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint supplied by Wing.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649.</term>
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="act">
+            <pb facs="tcp:47440:1"/>
+            <pb n="1" facs="tcp:47440:1" rendition="simple:additions"/>
+            <head>A brief of an Act of Parliament, humbly deſi<g ref="char:EOLhyphen"/>ſired for the relief of the diſtreſſed Proteſtants of <hi>IRELAND,</hi> who have loſt their Eſtates by the preſent Rebellion there, and to enlarge and explain theſe former Acts already paſſed, for the more ſpeedy and effe<g ref="char:EOLhyphen"/>ctuall reducing of the Rebells of <hi>IRELAND</hi> to their due Obedience to His Majeſty, and the Crown of <hi>ENGLAND.</hi>
+            </head>
+            <p n="1">1. THat ſuch, and ſo many Commiſſions may iſſue forth as the Lords and Commons in Parliament ſhall think fit, and to ſuch Commiſſioners as they ſhall name, to examine their loſſes, what they have been ſince the 23 of <hi>O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ctober</hi> laſt; theſe to be returned to the Parliament, and thereup<g ref="char:EOLhyphen"/>on every mans loſſes, to be adjudged what they are.</p>
+            <p n="2">2. That he that ſhall thus be found to have loſt 1000 <hi>l,</hi> and ſhall pay 200 <hi>l.</hi> more towards the maintenance of the War, may have 2000 Acres of Land, &amp;c. to lie in <hi>Leinſter,</hi> of the Rebels Lands forfeited, at 6 <hi>d. per</hi> Acre Rent: And paying 150 <hi>l.</hi> to have 2000 Acres in <hi>Munſter</hi> at 5 <hi>d. per</hi> Acre Rent: And paying 100 <hi>l.</hi> to have 2000 Acres in <hi>Connaught</hi> at 4 <hi>d. per</hi> Acre Rent: And paying 100 Marks to have 2000 Acres in <hi>Vlſter</hi> at 3 <hi>d. per</hi> Acre Rent: And to hold of His Majeſty as the under-writers in the firſt Propoſitions are to hold theirs, and when they ſhall be firſt ſatisfied.</p>
+            <p n="3">3. That all Souldiers, Officers, and others, that have, or ſhall be employed in this Warre, and ſhall deſire to be ſatisfied his pay or entertainment, or any part of it in Lands, of the Rebels Lands: for every 20 <hi>s.</hi> that he ſhall acquit of his pay, to have an Acre of Land to lie in <hi>Leinſter,</hi> at 8 <hi>d. per</hi> Acre Rent: For every 18 <hi>s.</hi> an Acre in <hi>Munſter,</hi> at 6 <hi>d. per</hi> Acre: For every
+<pb n="2" facs="tcp:47440:2"/>16 <hi>s.</hi> an Acre in <hi>Connaught,</hi> at 4 <hi>d. per</hi> Acre Rent: For every 15 <hi>s.</hi> an Acre in <hi>Vlſter</hi> at 3 <hi>d. per</hi> Acre Rent; and this to be no preju<g ref="char:EOLhyphen"/>dice to any of them for any reward of the Rebels Lands to be given them for their good ſervice.</p>
+            <p n="4">4. That a better Trade and Manufacture may be introdu<g ref="char:EOLhyphen"/>ced and brought into that Kingdom, and to raiſe more money, Every one that ſhall adventure 10 <hi>l.</hi> or more, to have ſo much Houſes and Lands in any the fortified Cities, and old Corpo<g ref="char:EOLhyphen"/>rations of <hi>Ireland,</hi> where he ſhall chooſe to be planted, as ſhall be of the value of 20 <hi>l.</hi> paying 20 <hi>d.</hi> yeerly Rent to His Majeſty, and ſo ratably for every 10 <hi>l.</hi> to be disburſed, to have 20 <hi>l.</hi> worth in houſes, paying 1 <hi>d.</hi> Rent to His Majeſty for every pound he ſhall disburſe.</p>
+            <p n="5">5. That any City, Corporation, Body Politique, Compa<g ref="char:EOLhyphen"/>ny, Yeuld, Fraternity, Society, Shire, County, or other per<g ref="char:EOLhyphen"/>ſons that ſhall be deſirous to plant one of them entire by them<g ref="char:EOLhyphen"/>ſelves, to have any of them upon the ſame tearms as before.</p>
+            <p>And for raiſing preſent moneyes by the Propoſitions, the ſame ſhall be valued at preſent by the receivers of the mo<g ref="char:EOLhyphen"/>neyes in <hi>Guild-hall,</hi> and the perſons adventuring to be agreed betwixt them, what ſuch Adventurers ſhall lay down at pre<g ref="char:EOLhyphen"/>ſent, to be afterwards aſcertained by Commiſſion, and then to be cleerly ſetled according to this Propoſition, and to have new Charters granted, with ſuch Priviledges as ſhall be fit, &amp;c.</p>
+            <p n="6">6. That becauſe a great part of theſe Cities, and old Cor<g ref="char:EOLhyphen"/>porations are Chantery Lands, and given to ſuperſtitious uſes, for maintenance of popiſh Prieſts, and have been the very Nurſeries and encreaſe of Popery there; Therefore theſe Meſ<g ref="char:EOLhyphen"/>ſuages and Lands may be given to the King, and ſo made liable to this Plantation.</p>
+            <p n="7">7. That ſuch as by Commiſſion from His Majeſty, or from the Lords Juſtices of <hi>Ireland,</hi> or other like Power and Authori<g ref="char:EOLhyphen"/>ty, have ſerved the State in this Warre, and raiſed many Com<g ref="char:EOLhyphen"/>panies
+<pb n="3" facs="tcp:47440:2"/>of Horſe and Foot, and paid them at their own char<g ref="char:EOLhyphen"/>ges; That when hereafter it ſhall be examined by Commiſſion what their Services, and merit hath been; And what Coſts and Charges they have been at, they may receive the publike Faith of the Parliament, to have ſome conſiderable atisfacti<g ref="char:EOLhyphen"/>on and reward out of the Rebels Lands for their Servi<g ref="char:EOLhyphen"/>ces, &amp;c.</p>
+            <p n="8">8. That if any ſhall hereafter as Voluntiers, ſerve the State in this Warre at their own coſts and charges, they may be re<g ref="char:EOLhyphen"/>compenſed in like manner.</p>
+            <p n="9">9. That that part of the Province of <hi>Connaught,</hi> and divers other Baronies and Territories of Land, to which His Majeſty ſtands intituled upon record, and was to have been planted, and yet continued in the poſſeſſion of the Rebels untill the time of the Rebellion, That theſe Lands may be made as lya<g ref="char:EOLhyphen"/>ble, and ſubject to ſatisfie the Adventurers in the former, and theſe Propoſitions as the Rebells Lands to be forfeited, &amp;c.</p>
+            <p n="10">10. That to avoyd all fraudulent eſtates and conveyances made by the Rebels, The former Act be enlarged to extend to all Reverſions, &amp;c. and remainders depending upon any eſtate Tail in poſſeſſion, for that otherwiſe th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re may be ſome ſuch uſes limited, &amp;c. as the former Act will ſcarcely meet withall.</p>
+            <p n="11">11. That to avoid all queſtions about other admeaſurements of theſe Lands to be planted for the time to come, after the Adventurers ſhall become once poſſeſſed and ſetled in their Lots of Lands; which thing hath raiſed many inconvenien<g ref="char:EOLhyphen"/>ces, and brought much dammage to Planters formerly, A Clauſe be incerted to bar His Majeſty, His Heirs and Succeſ<g ref="char:EOLhyphen"/>ſors, for making any other more demands of Titles to the ſame, &amp;c. for the time to come, and to avoyd all further admea<g ref="char:EOLhyphen"/>ſurements hereafter, &amp;c.</p>
+            <p n="12">12. Then to enlarge the time of under-writing in the for<g ref="char:EOLhyphen"/>mer Acts of Parliament, according to the former Propoſitions therein mentioned, after the 20 of <hi>Iuly</hi> next, without limitati<g ref="char:EOLhyphen"/>on
+<pb n="4" facs="tcp:47440:3"/>till the Warre ended.</p>
+            <p n="13">13. That in every particular Pariſh thorowout the King<g ref="char:EOLhyphen"/>dom, and Dominion of <hi>Wales,</hi> one may be appointed by the Sheriff of the Shire or County, ſuch as they will anſwer for, to receive Subſcriptions and Moneyes, and for to return the ſame to the ſaid Sheriffs, and they to return them unto the Chamber of <hi>London;</hi> And that the Parſon of every Pariſh may at ſome one time after Divine Service ſtirre up his Pariſhioners to contr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bute to the work.</p>
+            <p n="14">14. That a Clauſe of Denization be inſerted for all ſuch of the Dutch Nation as ſhall adventure, making them capable to inherit that Land upon which they ſhall thus be planted, and to make them, their Iſſues and Poſterities as true Subjects thereof, as any His Majeſties born Subjects in that Kingdom.</p>
+            <p n="15">15. That the ancient Britiſh Planters in <hi>Ireland,</hi> their Heirs, and Aſſignes, may have all ſuch Lands and Tenements of their Plantations as they have formerly granted out in Fee Farms and Leaſes, to ſuch perſon and perſons as are now become Re<g ref="char:EOLhyphen"/>bels, to hold as in their firſt Eſtates, paying to His Majeſty, His Heirs, and Succeſſors, the yeerly Fee Farm Rents, and other Rents reſerved, during all the continuance of ſuch Leaſes, Eſtates, and Intereſts.</p>
+            <p n="16">16. That ſuch of the ſaid Britiſh Planters as have been late<g ref="char:EOLhyphen"/>ly drawn, much againſt their wills, to repaſſe their Lands up<g ref="char:EOLhyphen"/>on thoſe Commiſſion and Commiſions ſet on foot for reme<g ref="char:EOLhyphen"/>dying of defective titles, and to alter their Tenures from Soc<g ref="char:EOLhyphen"/>cage to Capite, with encreaſe of Rents: Such of them as ſhall think fit to ſurrender &amp; cancell their ſaid Letters Patents, may be admitted to hold by their former Tenures, with encreaſe of Rents notwithſtanding, as are now reſerved in theſe grants laſt made; the rather, becauſe His Majeſty heretofore was gra<g ref="char:EOLhyphen"/>ciouſly pleaſed to grant the ſame to the Committees which came over from the Parliament of <hi>Ireland,</hi> but have been inter<g ref="char:EOLhyphen"/>rupted by this Rebellion.</p>
+            <p n="17">
+               <pb n="5" facs="tcp:47440:3"/>17. That he which hath already ſubſcribed 600 <hi>l,</hi> as that ſhall ſubſcribe hereafter 600 <hi>l,</hi> may have a Mannor in <hi>Munſter</hi> if his lot falls there, the miſtake of the former Act of Parlia<g ref="char:EOLhyphen"/>ment notwithſtanding.</p>
+            <p n="18">18. That he which hath, or ſhall underwrite, more then 600 <hi>l,</hi> ſhall at his election, either create the ſame into one intire Mannor, or for every 600 <hi>l,</hi> he ſhall adventure to have ſo many ſeverall Mannors, at his election the former Acts of Parliament notwithſtanding.</p>
+            <p n="19">19. That whereas by a cleer computation, the two Milli<g ref="char:EOLhyphen"/>ons and a half of Acres; in the firſt Propoſitions, doth not ſa<g ref="char:EOLhyphen"/>tisfie the Million of money deſigned to be raiſed by 31250 <hi>l,</hi> or thereabouts, that ſo much more of the Rebels Lands be al<g ref="char:EOLhyphen"/>lotted out for that, as ſhould countervail the whole money.</p>
+            <p n="20">20. That as well thoſe who have already underwritten, as thoſe who ſhall hereafter underwrite any ſummes of money, according to the former Acts of Parliament, or that is to have any of the Rebels Lands to be allotted to him, according to this Act of Parliament, ſo ſoon as they have paid in their whole monyes, and received their acquittance for the ſame by deed Indented; or by their laſt Wills, and Teſtaments, may grant, aſſigne, deviſe, or bequeath all their demands of, and unto any part of the Rebels Lands, and their Lots, and Shares to be had therein; And ſuch grantee, and deviſee, to have the ſame demand right, and pretence, and to receive the ſame fruit and benefit of the ſame ſubſcription as the un<g ref="char:EOLhyphen"/>derwriter, or other perſon ſo intereſſed, and pretending as aforeſaid may or might have done, if it had continued ſtill in his own perſon.</p>
+            <p n="21">21. That ſuch as ſhall deſire to be planted together, ſo many of them joyning or any ſum that ſhall not exceed 10000 <hi>l,</hi> may firſt draw one lot to be after ſubdivided and gran<g ref="char:EOLhyphen"/>ted to them in ſeverall, as if they had ſubſcribed ſingly each man by himſelf, and this to extend to thoſe which have al<g ref="char:EOLhyphen"/>ready
+<pb n="6" facs="tcp:47440:4"/>underwritten, as thoſe that ſhall hereafter under write in any the propoſitions whatſoever.</p>
+            <p n="22">22. That ſuch as have underwritten, or ſhall underwrite in the former, or in theſe propoſitions any ſum of money, which he is to pay in time, and ſhall now pay in hand, ſhall have his Land ſet out unto him, according to Iriſh meaſure, <hi>viz.</hi> to con<g ref="char:EOLhyphen"/>ſiſt of eightſcore Perches or Poles, and every Perch or Pole 21. foot; whereas by thoſe Propoſitions, he is to have but ſix<g ref="char:EOLhyphen"/>teen foot and a half.</p>
+            <p n="23">23. That if there ſhall not be ſufficient of the Rebells Lands for to ſatisfie all theſe adventures, and perſons to be ſatisfied according to theſe Acts of Parliament, they are content otherwiſe to receive ſuch ſatisfaction as the Parlia<g ref="char:EOLhyphen"/>ment ſhall think fit.</p>
+            <p n="24">24. That all ſuch Merchants of <hi>London,</hi> and of other Cities and Corporations, and elſewhere in this Kingdom, that have loſt any debts in <hi>Ireland,</hi> by this rebellion. As the diſtreſſed Proteſtants of <hi>Ireland,</hi> who have loſt there perſonall Eſtates, and Goods, and ſhall deſire to adventure in the Propoſitions aforeſaid; concerning the planting of the foreſaid Cities and Boroughes of <hi>Ireland</hi> by this Rebellion; if before the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> day of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> next they ſhall pay a moyety of ſuch moneyes, as is to be paid by others in that adventure, they may have the other moyety allowed to them towards the re<g ref="char:EOLhyphen"/>compence of their loſſes. <hi>Viz.</hi> For every 5 <hi>l,</hi> by them ſo to be disburſed in ready money, to have the value of 20 <hi>l</hi> in Houſes and Lands given them, accompting 5 <hi>l</hi> more in every ſuch ſum of x <hi>l,</hi> to be allowed towards the ſaid loſſes, and the other moyty of the whole, they are to have as thoſe that ſhall adventure therein, and are not ſo concerned therein as they.</p>
+            <p n="25">25. That ſuch perſon and perſons, as ſhall at indifferent rates, furniſh the Souldiers in <hi>Ireland</hi> with cloathings of Linnen, or Wollen, Victualls, Corne, or other proviſions, neceſſary for there ſubſiſtance; And for the better proceed of
+<pb n="7" facs="tcp:47440:4"/>the Warre to be delivered in to any of the Magizens, either heer, or there, appointed, or to be appointed for that purpoſe, ſhall have ſuch proportions of Lands, of the Lands of the Rebels, as the ſame ſhall amount unto, and ſhall underwrite the ſame, as the adventurers in the firſt propoſitions, and have a receipt thereof from thoſe appointed to receive ſubſcripti<g ref="char:EOLhyphen"/>ons in the Chamber of <hi>London,</hi> as for monies paid, and ſhall receive a like lot for the ſame in all things with the adventu<g ref="char:EOLhyphen"/>rers, in the firſt propoſitions.</p>
+            <p n="26">26. That for ſatisfaction of the adventurers in theſe pro<g ref="char:EOLhyphen"/>poſitions, it is declared, That in caſe the Warre ſhall not be ended after the underwriting, and expence of the ſaid whole Million of money, and of other, the moneyes to be raiſed by this Act, That in ſuch caſe, they ſhall not be inforced or compelled by means, or reaſon of any ingagements by their ſubſcriptions, and adventures aforeſaid, to disburſe or lay out, any more, or other ſumme or ſummes of money for their ſaid Lands to be ſo aſſigned, and ſet out unto them after the Warre ended.</p>
+            <p n="27">27. That if the Inhabitants and Pariſhioners of any Pariſh, Villadge, or Hamblet, will adventure any ſumme of money for Land, ſhall have a lot of Land for the ſame, out of the Rebels Lands, the profit whereof, to go to the uſe of ſuch Pariſhes, &amp;c. for ever.</p>
+            <p n="28">28. That to extinguiſh the barberous Iriſh names of Townes, and Villadges in <hi>Ireland.</hi> And to aſſumulate them in name, as other things to the names of Towns in <hi>England,</hi> and to divide Pariſhes there, now ten miles and more in circuite, to a fit proportion; for ſetling of Churches in a convenient place for conveniency of the Pariſhioners, aſſembling to di<g ref="char:EOLhyphen"/>vine ſervice; for providing a competent means for a preach<g ref="char:EOLhyphen"/>ing Miniſtery, &amp;c. The Commiſſioners to be appointed by the Parliament, when the War ſhall be ended, may have power by this Act amongſt other things to do the ſame. Every particular
+<pb n="8" facs="tcp:47440:5"/>Branch of this Act hath its ſeverall Motives, and Reaſons in<g ref="char:EOLhyphen"/>ſerted, together with its proceedings, and the reaſons of the things deſired to paſſe. Which theſe generalls do compre<g ref="char:EOLhyphen"/>hend.</p>
+            <p n="29">29. That ſuch diſtreſſed Proteſtants of <hi>Ireland</hi> as are Far<g ref="char:EOLhyphen"/>mers of Lands or Tenements in <hi>Ireland:</hi> and now by means of this Rebellion, are drawn away and inforced to quit their poſſeſſions for ſafety of their lives, and can reap no fruit and benefit of their Farms, that they may be freed from payment of any Rents; ſo long as by meanes of this Warre, they ſhall be hindered to perceive and receive the profits.</p>
+            <p n="30">30. That theſe Rebels now after this their ſo barbarous and bloudy murthers and maſſacres of His Majeſties Prote<g ref="char:EOLhyphen"/>ſtant Subjects of <hi>Ireland:</hi> And their robbing and diſpoiling them of all their goods, chattells, and perſonall eſtates. The burning and demoliſhing their Caſtles, houſes, the waſting their Lands, univerſally almoſt throughout that whole King<g ref="char:EOLhyphen"/>dom, and other their unparalleld proceedings, to have totally ſubverted that Government, ſupplanted the Proteſtant Reli<g ref="char:EOLhyphen"/>gion; to have introduced the authority of the See of <hi>Rome;</hi> and to have framed and ſet up a new forme of Government there amongſt themſelves, to the utter deſtruction of His Majeſtie, and His Poſterity. After all this, they may not be received unto protection, or to come in upon any other tearms and conditions whatſoever; then referring themſelves wholly to His Majeſties mercy, and the Law, to be delt withall as His Majeſty by the High Court of Parliament ſhall be directed; which otherwiſe will dishearten and abandon all the remain of His Majeſties Brittiſh Subjects yet left there; to ſet down and replant any more amongſt them, never to be ſecure of their lives or eſtates: And this can no more incenſe, or irritate them, then already by the former Acts of Parliament, this Seſſion made for reducing them to their obedience; but here<g ref="char:EOLhyphen"/>by much further ſatisfaction will be given to His Majeſties good Subjects therein concerned.</p>
+            <p n="1">
+               <pb n="9" facs="tcp:47440:5"/>1. <hi>THat there is nothing in it, but doth promote the Warre in hand, againſt thoſe Rebels, and the ſpeedy reducing of them to their obedience, and will raiſe great ſummes of money for that purpoſe.</hi>
+            </p>
+            <p n="2">2. <hi>That by this means a great revenue will be ſetled to the Crown, which will make that Kingdom, not only afterwards for to ſubſiſt of it ſelf, and maintain its own charge, but will become ſufficiently able in a ſhort time to return a ſatisfaction to this Kingdom, of thoſe great expenſes it hath already, and ſhall further put this Kingdom unto, by this Re<g ref="char:EOLhyphen"/>bellion.</hi>
+            </p>
+            <p n="3">3. <hi>That it will every way advance the peopling, planting, civillizing, and ſecuring that Realm, for the future, and time to come: when thus upon the matter, All, or moſt part of the Proteſtants in all His Majeſties Dominions, with ſome of thoſe of the united States alſo, will be invol<g ref="char:EOLhyphen"/>ved together in this work; and thus ingaged, to make a univerſall plantation of it with Religious Proteſtants.</hi>
+            </p>
+            <p n="4">4. <hi>That by this means popery will be extinguiſhed, and the Proteſtant Religion flouriſh there, and this thus with His Majeſties other Kingdoms, it will be able to aſsiſt him in whatſoever undertaking, for the maintenance and ſupport of His honour and greatneſſe, and by Him, of the Proteſtant party throughout all Chriſtendom.</hi>
+            </p>
+            <p n="5">5. <hi>And thus thouſands of diſtreſſed Proteſtants, eſcaped from the bloudy hands of thoſe mercileſſe Rebels, ſome with the loſſe of fathers, ſome of mothers, ſome of husbands, ſome of wives, ſome of children, ſome of friends, ſome of ſervants, and of their goods and perſonall eſtates, ſome of all, and of all ſome, ſhall be relieved, and but out of thoſe Rebels Lands, who have been ſo tyrannous and cruell to them; a thing of the greateſt equity.</hi>
+            </p>
+            <p n="6">6. <hi>And all this ſhall be done to thoſe, who have already thus farre merited in the ſervice of that Common-wealth; that beſides their loſſes aforeſaid ſuſtained, pleading for their relief, they have undergone, and ſerved that Kingdome from a totall and utter ruine and deſtruction, in
+<pb n="10" facs="tcp:47440:6"/>that eminency of danger in the beginning of that Rebellion, and ſithence, before ſupplies, and ſuccours were; or could be ſent from hence (in which time had they not quitted themſelves like men) the whole Kingdom had been endangered, and ſubject to the mercy of thoſe mercileſſe and blood<g ref="char:EOLhyphen"/>thirſty Tyrants.</hi>
+            </p>
+            <p n="7">7. <hi>It ſhall be done to thoſe who are now onely left, the free ſubjects of that Realm to undergo and perform thoſe Offices of Truſt, and legall Rites and performances neceſſarily required in the execution of the Laws of the Land, and by which things muſt move to the Reformation there, both in Church and State.</hi>
+            </p>
+            <p n="8">8. <hi>And if that Kingdom (under correction) ſhall be conceived to be ſo farre ſubſiſtant of it ſelf, or independant, as that the Parliament, and the Laws there in force, ſhall be thought neceſſary, as well to attaint thoſe Rebells, and confiſcate their Eſtates, as for to confirm and corrobo<g ref="char:EOLhyphen"/>rate what is, and ſhall be by the Parliament here ſo well begun for the fu<g ref="char:EOLhyphen"/>ture ſettlement thereof, Why ſhould not</hi> he that ſerves at the Altar, partake of the Offering? <hi>and that</hi> bears the burthen, receive the benefit? <hi>May it not trouble them to be ſet aſide, and to ſee others, meerly ſtrange to that Common wealth preferred before and over them, and they offering upon the matter as valuable a conſideration (all things conſidered) as any other gives for thoſe Lands? and yet theſe muſt do their buſineſſe ſtill, though thus diſinabled, without hope ever to attain again unto that Fortune and Eſtate which thus they had at the time that the Rebellion begun: And thus alſo they ſhall be enforced alſo to depart with that little left (<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o be reſtored at the ending of the Warre) towards ſatisfying of their debts, contracted both before and ſince this Rebellion begun, for meer neceſſaries, wherewith for to live, and to preferre and provide for their wives, children, and families that are left, out of it, if it may poſſibly ſuffice.</hi>
+            </p>
+            <p n="9">9. <hi>The Petitioners cannot imagine they ſhould have any ſuch of their own Nation of</hi> Ireland, <hi>nor amongſt theſe here, that will object againſt them herein, that hereby too great a Revenue will be raiſed to the Crown; for ſurely as ſuch a one cannot be ſaid to be</hi> Caeſars <hi>friend, ſo neither can
+<pb n="11" facs="tcp:47440:6"/>he be true Patriot to his Countrey, nor lover of his Countrey-men: and if any State-policy he hath here in, it must be of his own; for it's without bottome or underſtanding.</hi>
+            </p>
+            <p n="10">10. <hi>And if ſuch a one ſhall further object, That there will not be Lands enough to ſatisfie all that is thus deſired by this Act, that objection is anſwered by the Act it ſelf, That in ſuch caſe no more is looked for, then that which may be had; and if there ſhall not be enough for to con<g ref="char:EOLhyphen"/>tent all parties concerned, they will relye upon the wiſedome and goodneſſe of the Parliament in ſuch caſe, for to be recompenced either with reſtitu<g ref="char:EOLhyphen"/>tion of what they ſhall thus disburſe, or in ſome ſuch other way as they ſhall think fit.</hi>
+            </p>
+            <p n="11">11. <hi>But if ſuch a one ſhall further object, and ſay, That the Petiti<g ref="char:EOLhyphen"/>oners being thus neceſsitated as they make themſelves; there can be no expectation that they ſhould advance any monies towards maintenance of the ſaid Warre in hand as they propound; and therefore without ground or reaſon do make theſe propoſitions; which may receive this anſwer, That every one that is needy and neceſsitous, is not therefore friendleſſe, and without help, and it is a greater motive to him that ſupplyed my wants before, without hope of retribution to do it now much more, when he ſhall ſee a poſsibility of ſatisfaction, at leaſt to do me that good, which will rid him of me as a continuing burthen; which otherwiſe in charity, he had been ſtill ſubject, and lyable unto. Howſoever it will rid the Par<g ref="char:EOLhyphen"/>liament from the trouble of many Petitions in this kinde, who when they ſhall have thus laid down a way for every mans ſatisfaction, that will apply himſelf unto it, it ſhall be his own fault, that will not or cannot lay hold of the remedy, and more from the Parliament then this cannot be expected; and it will ſatisfie all reaſonable men that are thus concerned, to ſit down and acquieſſe in it.</hi>
+            </p>
+            <p n="12">12. <hi>And if yet ſuch a one ſhall further proſecute his reſolutions a<g ref="char:EOLhyphen"/>gainst the proceeding of this Act, for any more reſerved, and private reſpects, and relations of his own; The Petitioners can conclude of him, to be no other then ſuch a one, who of neceſsity muſt have many of his friends now out in Rebellion, for whom he ſhall thus covertly plead for
+<pb n="12" facs="tcp:47440:7"/>pardon, in hope aſſuredly of their reſtitution both in blond and eſtates, That ſo all things may there once again be reduced to that their Popiſh Idolatrous wont of living amongſt themſelves, untill proceſſe of time ſhall gain them a like opportunitie, to do His Majeſties Proteſtant Subjects there a farre worſer miſchief, if poſsible the confuſion both of that Church and State.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:47440:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
